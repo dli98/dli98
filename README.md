@@ -1,7 +1,7 @@
 ### :cn: Hi there 👋 
 
 <a align="center" href="https://github.com/dli98">
-  </p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=dli98&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&" width="465"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dli&layout=compact&langs_count=10" alt="Languages" height="183"/>
   </p>
